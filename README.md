@@ -1,5 +1,6 @@
 # AI-Notes
-Useful references
+Useful references in this area
+
 ## Search
 - Perplexity - https://www.perplexity.ai/
     - Given google's descent into mediocrity
@@ -16,4 +17,7 @@ Useful references
 
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
+
+### Notebook LM
+- https://notebooklm.google/
 
