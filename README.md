@@ -14,6 +14,9 @@ Useful references in this area
 - Claude - https://claude.ai/login?returnTo=%2F%3F
     - You have to try Mr Shannon at least once, right?
 
+- Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU
+    - Just like the old ad
+
 
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
