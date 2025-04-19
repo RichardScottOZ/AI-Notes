@@ -28,5 +28,8 @@ Useful references in this area
 ### Notebook LM
 - https://notebooklm.google/
 
+### Research
+- https://github.com/SakanaAI/AI-Scientist-v2
+
   
 
