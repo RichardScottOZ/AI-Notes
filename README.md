@@ -17,10 +17,16 @@ Useful references in this area
 - Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU
     - Just like the old ad
 
+- Phind - https://www.phind.com/
+
+## UI
+- https://github.com/oobabooga/text-generation-webui
 
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
 
 ### Notebook LM
 - https://notebooklm.google/
+
+  
 
