@@ -17,6 +17,7 @@ Useful references in this area
 - Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU
     - Just like the old ad
 
+- OpenRouter - https://openrouter.ai/
 - Phind - https://www.phind.com/
 
 ## UI
