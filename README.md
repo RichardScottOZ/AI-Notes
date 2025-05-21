@@ -14,7 +14,6 @@ Useful references in this area
 - Le Chat - https://chat.mistral.ai/chat
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
-- alphaxiv - https://www.alphaxiv.org/ - Chat with arxiv
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
 
 ## UI
@@ -23,8 +22,12 @@ Useful references in this area
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
 
+## Research Anaysis
 ### Notebook LM
 - https://notebooklm.google/
+### alphaXiv
+- https://www.alphaxiv.org/ - Chat with arxiv
+
 
 ### Research
 - https://github.com/SakanaAI/AI-Scientist-v2
