@@ -11,8 +11,10 @@ Useful references in this area
 - Claude - https://claude.ai/login?returnTo=%2F%3F    - You have to try Mr Shannon at least once, right?
 - Deepseek - https://chat.deepseek.com/    - Anyone not like 10x cheaper?
 - Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU    - Just like the old ad
+- Le Chat - https://chat.mistral.ai/chat
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
+- alphaxiv - https://www.alphaxiv.org/ - Chat with arxiv
 
 ## UI
 - https://github.com/oobabooga/text-generation-webui
