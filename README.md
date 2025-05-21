@@ -31,8 +31,10 @@ Useful references in this area
 
 ### Research
 - https://github.com/SakanaAI/AI-Scientist-v2
+- https://github.com/going-doer/Paper2Code
 
 ### Models
 - https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit
+
   
 
