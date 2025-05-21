@@ -15,6 +15,7 @@ Useful references in this area
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
 - alphaxiv - https://www.alphaxiv.org/ - Chat with arxiv
+- DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
 
 ## UI
 - https://github.com/oobabooga/text-generation-webui
