@@ -15,6 +15,7 @@ Useful references in this area
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
+- Huggingchat - point of interesting being Cohere Command R
 
 ## UI
 - https://github.com/oobabooga/text-generation-webui
