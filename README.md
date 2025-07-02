@@ -39,5 +39,8 @@ Useful references in this area
 ### Models
 - https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit
 
+### Tools
+- https://github.com/simonw/llm [from Datasette[
+
   
 
