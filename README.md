@@ -40,7 +40,8 @@ Useful references in this area
 - https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit
 
 ### Tools
-- https://github.com/simonw/llm [from Datasette[
+- Ollama https://ollama.com/search
+- LLM https://github.com/simonw/llm [from Datasette]
 
   
 
