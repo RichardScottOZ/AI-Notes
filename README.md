@@ -43,5 +43,8 @@ Useful references in this area
 - Ollama https://ollama.com/search
 - LLM https://github.com/simonw/llm [from Datasette]
 
+### Tool calling hack
+- https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
+
   
 
