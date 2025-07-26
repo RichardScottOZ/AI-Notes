@@ -4,7 +4,7 @@ Useful references in this area
 ## Search
 - Perplexity - https://www.perplexity.ai/    - Given google's descent into mediocrity
 - Duck AI - https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1
-- Genspark - https://www.genspark.ai
+- Scira - https://scira.ai/
 
 ## Robots
 - ChatBot Arena - https://lmarena.ai/    - ManyBots?
