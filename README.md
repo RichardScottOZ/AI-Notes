@@ -16,6 +16,7 @@ Useful references in this area
 - Huggingchat - point of interesting being Cohere Command R - https://huggingface.co/chat/
 - Le Chat - https://chat.mistral.ai/chat
 - Mercury Playground - https://chat.inceptionlabs.ai/ -> Diffusion LLM test
+- z.ai - https://chat.z.ai/
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
