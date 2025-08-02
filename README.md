@@ -27,11 +27,13 @@ Useful references in this area
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
 
-## Research Anaysis
+## Research Analysis
 ### Notebook LM
 - https://notebooklm.google/
 ### alphaXiv
 - https://www.alphaxiv.org/ - Chat with arxiv
+### sciarena
+- https://sciarena.allen.ai/ - compare models for a research question
 
 ### Research
 - https://github.com/SakanaAI/AI-Scientist-v2
