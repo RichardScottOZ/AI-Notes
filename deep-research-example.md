@@ -1,4 +1,4 @@
-# Simple Prompty
+# Simple Prompt
 
 I would like a deep research prompt for this: I have a repository readme that is a list of resources - some of which are papers https://github.com/RichardScottOZ/mineral-exploration-machine-learning - and lots of these are researchgate urls - can any llm type approachread that list and then check which ones are open access and maybe make an agent that can download them? Some will be papers at science direct, some are other paper providers - some are researchgate, there will be a few arxiv, etc, so needs to be flexible - hence llm possibilities. Things like crossref and openalex might be able to help - what other apis or github repos where people have written things that could help be able to do this?
 
@@ -47,5 +47,6 @@ Existing Tools and Repositories: What existing open-source projects or academic 
 Investigate tools like unpywall, habanero (Crossref client), or browser automation frameworks. What are their limitations for this specific, multi-source problem?
 
 Evaluation and Metrics: How would you measure the success of such an agent? Consider metrics like precision (percentage of retrieved papers that were correctly identified as OA), recall (percentage of all available OA papers on the list that were successfully retrieved), and retrieval speed.
+
 
 For your investigation, prioritize peer-reviewed papers on web scraping, information retrieval, and applied NLP, alongside the official documentation for APIs like Unpaywall and OpenAlex, and reputable open-source software repositories.
