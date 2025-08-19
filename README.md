@@ -19,6 +19,7 @@ Useful references in this area
 - z.ai - https://chat.z.ai/
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 - Phind - https://www.phind.com/
+- Qwen - https://chat.qwen.ai/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
 
 ## UI
