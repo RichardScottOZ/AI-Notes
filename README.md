@@ -50,5 +50,8 @@ Useful references in this area
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
 
-  
+### Papers
+- Nondeterminism in inference - https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+
+
 
