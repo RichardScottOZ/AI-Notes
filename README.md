@@ -47,6 +47,11 @@ Useful references in this area
 - Ollama https://ollama.com/search
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
+    - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
+- Gemini cli
+- Cursor
+- Copilot
+- Copilot cli
 
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
