@@ -14,6 +14,7 @@ Useful references in this area
 - Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU    - Just like the old ad
 - Genspark - https://www.genspark.ai/
 - Huggingchat - point of interesting being Cohere Command R - https://huggingface.co/chat/
+- Kimi - https://www.kimi.com
 - Le Chat - https://chat.mistral.ai/chat
 - Mercury Playground - https://chat.inceptionlabs.ai/ -> Diffusion LLM test
 - z.ai - https://chat.z.ai/
@@ -48,7 +49,7 @@ Useful references in this area
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
-- Gemini cli
+- Gemini cli [current decent free use level]
 - Cursor
 - Copilot
 - Copilot cli
