@@ -32,6 +32,7 @@ Useful references in this area
 ## Research Analysis
 ### Notebook LM
 - https://notebooklm.google/
+  - note says 300 sources with the paid version but seems to stop working at some stage with total content - e.g. if you put books in
 ### alphaXiv
 - https://www.alphaxiv.org/ - Chat with arxiv
 ### sciarena
