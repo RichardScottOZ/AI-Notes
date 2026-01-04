@@ -12,6 +12,7 @@ Useful references in this area
 - Claude - https://claude.ai/login?returnTo=%2F%3F    - You have to try Mr Shannon at least once, right?
 - Deepseek - https://chat.deepseek.com/    - Anyone not like 10x cheaper?
 - Gemini - https://gemini.google.com/app/bf9ff53a9cd3ff1e?hl=en-AU    - Just like the old ad
+  - https://www.google.com/search?udm=50&aep=11
 - Genspark - https://www.genspark.ai/
 - Huggingchat - point of interesting being Cohere Command R - https://huggingface.co/chat/
 - Kimi - https://www.kimi.com
