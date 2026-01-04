@@ -19,10 +19,14 @@ Useful references in this area
 - Le Chat - https://chat.mistral.ai/chat
 - Mercury Playground - https://chat.inceptionlabs.ai/ -> Diffusion LLM test
 - z.ai - https://chat.z.ai/
-- OpenRouter - https://openrouter.ai/ - Real ManyBots
+  - https://docs.z.ai/api-reference/introduction [API]
 - Phind - https://www.phind.com/
 - Qwen - https://chat.qwen.ai/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
+
+## Robot Aggregators
+- OpenRouter - https://openrouter.ai/ - Real ManyBots
+
 
 ## UI
 - https://github.com/oobabooga/text-generation-webui
