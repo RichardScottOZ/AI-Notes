@@ -55,12 +55,14 @@ Useful references in this area
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
+- Claude Code router - https://github.com/musistudio/claude-code-router
 - Gemini cli [current decent free use level]
 - Cursor
 - Copilot
 - Copilot cli
 - Amazon Q Developer
 - kiro-cli
+
 
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
