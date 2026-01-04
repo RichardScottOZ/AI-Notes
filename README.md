@@ -56,6 +56,8 @@ Useful references in this area
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
 - Claude Code router - https://github.com/musistudio/claude-code-router
+
+## Tools - Need Signup
 - Gemini cli [current decent free use level]
 - Cursor
 - Copilot
