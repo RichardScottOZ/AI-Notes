@@ -20,7 +20,6 @@ Useful references in this area
 - Mercury Playground - https://chat.inceptionlabs.ai/ -> Diffusion LLM test
 - z.ai - https://chat.z.ai/
   - https://docs.z.ai/api-reference/introduction [API]
-- Phind - https://www.phind.com/
 - Qwen - https://chat.qwen.ai/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
 
