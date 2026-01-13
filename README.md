@@ -51,6 +51,7 @@ Useful references in this area
 
 ### Tools
 - Ollama https://ollama.com/search
+- Llama.cpp https://github.com/ggml-org/llama.cpp
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
