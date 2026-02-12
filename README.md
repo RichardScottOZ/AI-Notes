@@ -52,6 +52,26 @@ Useful references in this area
 ### Tools
 - Ollama https://ollama.com/search
 - Llama.cpp https://github.com/ggml-org/llama.cpp
+- llama-server 
+1. Go to the [llama.cpp releases page](https://github.com/ggerganov/llama.cpp/releases)
+2. Download the package matching your GPU:
+   - **NVIDIA:** llama-<version>-bin-win-cuda-cu12.2.0-x64.zip (or whichever CUDA version matches your driver)
+   - **AMD:** llama-<version>-bin-win-vulkan-x64.zip
+3. Extract it — llama-server.exe is right there, no install needed
+4. Run it:
+
+   llama-server.exe -m your-model.gguf -ngl 99 --host 0.0.0.0 --port 8080
+
+  -ngl 99 offloads all layers to GPU.
+
+Prerequisites:
+- **NVIDIA:** Make sure you have the CUDA toolkit (or at least the CUDA runtime DLLs) matching the release you
+downloaded. Usually having up-to-date NVIDIA drivers is enough since they bundle the runtime.
+- **AMD:** Vulkan drivers (typically included with AMD Adrenalin drivers).
+
+That's it — no compilation, no WSL needed. Just extract and run.
+ ▸ Time: 10s
+
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
