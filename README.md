@@ -111,8 +111,12 @@ That's it — no compilation, no WSL needed. Just extract and run.
 - Cursor
 - Copilot
 - Copilot cli
+
+## Amazon
 - Amazon Q Developer
-- kiro-cli
+### kiro-cli
+- https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html
+- https://kiro.dev/docs/cli/
 
 
 ### Tool calling hack
