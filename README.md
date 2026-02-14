@@ -117,6 +117,7 @@ That's it — no compilation, no WSL needed. Just extract and run.
 ### kiro-cli
 - https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html
 - https://kiro.dev/docs/cli/
+  - curl -fsSL https://cli.kiro.dev/install | bash
 
 
 ### Tool calling hack
