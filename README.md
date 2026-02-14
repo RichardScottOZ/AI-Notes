@@ -50,9 +50,33 @@ Useful references in this area
 - https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-unsloth-bnb-4bit
 
 ### Tools
-- Ollama https://ollama.com/search
+#### ollama
+
+- https://ollama.com/search
+
+##### claude code
+- if git bash installed for a user then
+setx CLAUDE_CODE_GIT_BASH_PATH "C:\Users\rscott\AppData\Local\Programs\Git\bin\bash.exe"
+
+so claude works
+
+##### increase context create 64K Modelfile
+FROM glm-4.7-flash
+
+PARAMETER num_ctx 65536
+
+##### command
+ollama create glm-4.7-flash-64k -f Modelfile
+
+##### launch and choose model
+ollama launch claude --config
+
+
 - Llama.cpp https://github.com/ggml-org/llama.cpp
-- llama-server 
+#### llama-server
+pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu128
+
+ 
 1. Go to the [llama.cpp releases page](https://github.com/ggerganov/llama.cpp/releases)
 2. Download the package matching your GPU:
    - **NVIDIA:** llama-<version>-bin-win-cuda-cu12.2.0-x64.zip (or whichever CUDA version matches your driver)
@@ -63,6 +87,9 @@ Useful references in this area
    llama-server.exe -m your-model.gguf -ngl 99 --host 0.0.0.0 --port 8080
 
   -ngl 99 offloads all layers to GPU.
+
+llama-server.exe -m path\to\zai-org_GLM-4.6V-Flash-Q6_K_L.gguf --mmproj path\to\mmproj-zai-org_GLM-4.6V-Flash-f.gguf --port 8080 -ngl 99
+ 
 
 Prerequisites:
 - **NVIDIA:** Make sure you have the CUDA toolkit (or at least the CUDA runtime DLLs) matching the release you
@@ -76,6 +103,8 @@ That's it — no compilation, no WSL needed. Just extract and run.
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
 - Claude Code router - https://github.com/musistudio/claude-code-router
+
+
 
 ## Tools - Need Signup
 - Gemini cli [current decent free use level]
