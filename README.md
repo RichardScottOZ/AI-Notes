@@ -119,6 +119,17 @@ That's it — no compilation, no WSL needed. Just extract and run.
 - https://kiro.dev/docs/cli/
   - curl -fsSL https://cli.kiro.dev/install | bash
 
+1. Important! Before you can continue, you must update your PATH to include:
+   /home/rscott/.local/bin
+
+Add it to your PATH by adding this line to your shell configuration file:
+  export PATH="$HOME/.local/bin:$PATH"
+
+2. Use the command "kiro-cli" to get started!
+
+rscott@bananasplits:/mnt/c/Users/rscott$ nano ~/.bashrc
+rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc  
+
 
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
