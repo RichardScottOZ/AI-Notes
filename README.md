@@ -139,3 +139,5 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 
 
+## Small Models
+- https://huggingface.co/Nanbeige/Nanbeige4.1-3B - find out why this one is interesting
