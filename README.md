@@ -36,6 +36,7 @@ Useful references in this area
 ### Domained
 - Geology Oracle - https://geologyoracle.com/
 
+
 ## Research Analysis
 ### Notebook LM
 - https://notebooklm.google/
@@ -144,3 +145,8 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 ## Small Models
 - https://huggingface.co/Nanbeige/Nanbeige4.1-3B - find out why this one is interesting
+
+
+### Info
+- https://latentpatterns.com/
+  - from the OG Ralph
