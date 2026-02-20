@@ -23,6 +23,9 @@ Useful references in this area
 - Qwen - https://chat.qwen.ai/
 - DeepWiki - https://deepwiki.org/ - automagic github wiki overviews
 
+- https://chatjimmy.ai/ - Llama 3 8B on a chip - blazing fast
+
+
 ## Robot Aggregators
 - OpenRouter - https://openrouter.ai/ - Real ManyBots
 
