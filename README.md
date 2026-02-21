@@ -135,6 +135,15 @@ rscott@bananasplits:/mnt/c/Users/rscott$ nano ~/.bashrc
 rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc  
 
 
+### Orchestrators
+- Ralph Wiggum
+- Gas Town
+- Loom
+
+
+### Max Headroom
+- OpenClaw
+  
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
 
