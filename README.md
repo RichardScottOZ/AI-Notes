@@ -111,7 +111,7 @@ That's it — no compilation, no WSL needed. Just extract and run.
 
 
 ## Tools - Need Signup
-- Gemini cli [current decent free use level]
+- Gemini cli [current decent free use level - but slow as a consequence]
 - Cursor
 - Copilot
 - Copilot cli
@@ -136,13 +136,13 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 
 ### Orchestrators
-- Ralph Wiggum
-- Gas Town
-- Loom
+- Ralph Wiggum - https://github.com/ghuntley/how-to-ralph-wiggum
+- Gas Town - https://github.com/steveyegge/gastown
+- Loom - https://github.com/jordanhubbard/loom
 
 
 ### Max Headroom
-- OpenClaw
+- OpenClaw - https://github.com/openclaw/openclaw - https://openclaw.ai/
   
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
