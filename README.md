@@ -143,7 +143,9 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 ### Max Headroom
 - OpenClaw - https://github.com/openclaw/openclaw - https://openclaw.ai/
-  
+- openclaw gateway restart
+- openclaw tui
+ 
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
 
