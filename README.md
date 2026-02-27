@@ -165,3 +165,6 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 ## Data
 - https://github.com/abhigyanpatwari/GitNexus
+
+## Science
+- https://openclaws.io/blog/science-cluster-experiment/
