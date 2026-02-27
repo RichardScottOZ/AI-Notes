@@ -161,3 +161,7 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 ### Info
 - https://latentpatterns.com/
   - from the OG Ralph
+
+
+## Data
+- https://github.com/abhigyanpatwari/GitNexus
