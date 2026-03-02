@@ -168,3 +168,10 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 ## Science
 - https://openclaws.io/blog/science-cluster-experiment/
+
+## Models
+- https://huggingface.com
+- https://build.nvidia.com
+
+## Gear
+- https://www.dell.com/en-au/lp/dt/nvidia-ai AI-Factory
