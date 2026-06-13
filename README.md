@@ -139,6 +139,8 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 #### plugins
 - now native to Ollama as well
 - https://github.com/tmustier/pi-extensions/tree/main/pi-ralph-wiggum
+  - seems to accumulate context in chat session not clear per iteration
+- https://github.com/rahulmutt/pi-ralph - is a simple looper apparently
 
 
 ### Orchestrators
