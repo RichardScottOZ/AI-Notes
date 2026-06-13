@@ -134,6 +134,11 @@ Add it to your PATH by adding this line to your shell configuration file:
 rscott@bananasplits:/mnt/c/Users/rscott$ nano ~/.bashrc
 rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc  
 
+### pi
+#### plugins
+- now native to Ollama as well
+- https://github.com/tmustier/pi-extensions/tree/main/pi-ralph-wiggum
+
 
 ### Orchestrators
 - Ralph Wiggum - https://github.com/ghuntley/how-to-ralph-wiggum
