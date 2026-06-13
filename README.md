@@ -112,7 +112,8 @@ That's it — no compilation, no WSL needed. Just extract and run.
 
 ## Tools - Need Signup
 - Gemini cli [current decent free use level - but slow as a consequence]
-- Cursor
+-   - no longer useful and also deprecated
+- Cursor - see Composer 2.5 variant
 - Copilot
 - Copilot cli
 
