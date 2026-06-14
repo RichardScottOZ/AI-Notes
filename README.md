@@ -106,6 +106,7 @@ That's it — no compilation, no WSL needed. Just extract and run.
 - LLM https://github.com/simonw/llm [from Datasette]
 - Opencode https://github.com/sst/opencode
     - https://github.com/sst/opencode/issues/1669 - using opencode and ollama
+    - opencode go https://opencode.ai/go
 - Claude Code router - https://github.com/musistudio/claude-code-router
 
 
@@ -117,6 +118,7 @@ That's it — no compilation, no WSL needed. Just extract and run.
 - Cursor - see Composer 2.5 variant
 - Copilot
 - Copilot cli
+
 
 ## Amazon
 - Amazon Q Developer
