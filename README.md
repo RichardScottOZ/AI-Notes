@@ -112,7 +112,8 @@ That's it — no compilation, no WSL needed. Just extract and run.
 
 ## Tools - Need Signup
 - Gemini cli [current decent free use level - but slow as a consequence]
--   - no longer useful and also deprecated
+  - no longer useful and also deprecated
+  - antigravity migration, antigravity interface apparently being a cluster https://www.antigravity.google/docs/gcli-migration
 - Cursor - see Composer 2.5 variant
 - Copilot
 - Copilot cli
