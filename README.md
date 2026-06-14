@@ -122,7 +122,8 @@ That's it — no compilation, no WSL needed. Just extract and run.
 
 ## Amazon
 - Amazon Q Developer
-### kiro-cli [no native Windows version]
+### kiro-cli 
+- now has native windows version - which is of course buggy as would appear to be the usual js wrapper around other things
 - https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html
 - https://kiro.dev/docs/cli/
   - curl -fsSL https://cli.kiro.dev/install | bash
