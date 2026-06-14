@@ -160,6 +160,7 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
  
 ### Tool calling hack
 - https://www.reddit.com/r/LocalLLaMA/comments/1jauy8d/giving_native_tool_calling_to_gemma_3_or_really/
+  - Redundant likely with Gemma 4
 
 ### Papers
 - Nondeterminism in inference - https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
@@ -187,3 +188,7 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
 
 ## Gear
 - https://www.dell.com/en-au/lp/dt/nvidia-ai AI-Factory
+
+
+## Utilities
+- Rust Token Killer https://github.com/rtk-ai/rtk
