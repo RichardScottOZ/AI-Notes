@@ -146,6 +146,13 @@ rscott@bananasplits:/mnt/c/Users/rscott$ source ~/.bashrc
   - seems to accumulate context in chat session not clear per iteration
 - https://github.com/rahulmutt/pi-ralph - is a simple looper apparently
 
+### Qwen 3.6
+- the 4B KM_M quants seem useable locally
+- the 22.1GB 35B_3AB MOE with some expert offloading to the cpu works on 16GB - e.g. an ancient Tesla can run it - test settings getting closer to 20 T/S
+- https://insiderllm.com/guides/best-way-run-qwen-3-6-35b-moe-locally/
+- https://medium.com/@tolgaeren/running-pi-with-local-llms-c596aa14b062
+    - C:\Users\rscott>C:\Users\rscott\llama\llama-b9673-bin-win-cuda-12.4-x64\llama-server -m "C:\Users\rscott.cache\huggingface\hub\models--unsloth--Qwen3.6-35B-A3B-GGUF\snapshots\a483e9e6cbd595906af30beda3187c2663a1118c\Qwen3.6-35B-A3B-UD-Q4_K_M.gguf" --host 127.0.0.1 --port 8080 -c 131072 -ngl 999 -fa on --jinja --no-mmap --n-cpu-moe 30
+
 
 ### Orchestrators
 - Ralph Wiggum - https://github.com/ghuntley/how-to-ralph-wiggum
