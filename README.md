@@ -93,6 +93,8 @@ pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-c
   -ngl 99 offloads all layers to GPU.
 
 llama-server.exe -m path\to\zai-org_GLM-4.6V-Flash-Q6_K_L.gguf --mmproj path\to\mmproj-zai-org_GLM-4.6V-Flash-f.gguf --port 8080 -ngl 99
+
+llama-server -m "D:\llama\Qwen3.6-35B-A3B-UD-Q4_K_M.gguf" --alias qwen36-35b-a3b --host 127.0.0.1 --port 8080 -c 131072 -ngl 999 -fa on --jinja --no-mmap --cache-type-k q8_0 --cache-type-v q8_0 --n-cpu-moe 30
  
 
 Prerequisites:
