@@ -1,0 +1,11 @@
+{
+  "defaultModel": "qwen3.6:27b",
+  "defaultProvider": "ollama",
+  "lastChangelogVersion": "0.79.1",
+  "packages": [
+    "npm:@ollama/pi-web-search",
+    "npm:@tmustier/pi-ralph-wiggum",
+    "npm:@rahulmutt/pi-ralph"
+  ],
+  "shellPath": "C:\\Users\\rscott\\AppData\\Local\\Programs\\Git\\bin\\bash.exe"
+}

@@ -1,0 +1,137 @@
+{
+  "providers": {
+    "ollama": {
+      "api": "openai-completions",
+      "apiKey": "ollama",
+      "baseUrl": "http://127.0.0.1:11434/v1",
+      "models": [
+        {
+          "_launch": true,
+          "id": "lfm2.5:latest",
+          "input": [
+            "text"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 131072,
+          "id": "granite4.1:3b",
+          "input": [
+            "text"
+          ]
+        },
+        {
+          "_launch": true,
+          "contextWindow": 262144,
+          "id": "gemma4:12b",
+          "input": [
+            "text",
+            "image"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 65536,
+          "id": "olmo-3:7b",
+          "input": [
+            "text"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 262144,
+          "id": "nemotron-3-nano:4b",
+          "input": [
+            "text"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 262144,
+          "id": "qwen3.5:9b",
+          "input": [
+            "text",
+            "image"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 32768,
+          "id": "lfm2:latest",
+          "input": [
+            "text"
+          ]
+        },
+        {
+          "_launch": true,
+          "contextWindow": 131072,
+          "id": "gpt-oss:20b",
+          "input": [
+            "text"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 262144,
+          "id": "ministral-3:14b",
+          "input": [
+            "text",
+            "image"
+          ]
+        },
+        {
+          "_launch": true,
+          "id": "rnj-1:latest",
+          "input": [
+            "text"
+          ]
+        },
+        {
+          "_launch": true,
+          "contextWindow": 131072,
+          "id": "deepseek-r1:14b",
+          "input": [
+            "text"
+          ],
+          "reasoning": true
+        },
+        {
+          "_launch": true,
+          "contextWindow": 32768,
+          "id": "qwen2.5-coder:14b",
+          "input": [
+            "text"
+          ]
+        }
+      ]
+    }
+  }
+
+    "llama-server": {
+      "api": "openai-completions",
+      "apiKey": "local",
+      "baseUrl": "http://127.0.0.1:8080/v1",
+      "compat": {
+        "supportsDeveloperRole": false,
+        "supportsReasoningEffort": false
+      },
+      "models": [
+        {
+          "id": "qwen36-35b-a3b",
+          "name": "Qwen 3.6 35B A3B via llama-server",
+          "contextWindow": 8192,
+          "maxTokens": 4096,
+          "input": [
+            "text"
+          ],
+          "reasoning": false
+        }
+      ]
+  
+}

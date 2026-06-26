@@ -1,0 +1,9 @@
+{
+  "defaultProvider": "llama-server",
+  "defaultModel": "qwen36-35b-a3b",
+  "lastChangelogVersion": "0.79.1",
+  "packages": [
+    "npm:@ollama/pi-web-search",
+    "npm:pi-llama-cpp"
+  ]
+}
